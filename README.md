@@ -1,1 +1,1 @@
-# This is a bash script that switches the current user to the user betty.
+This is a bash script that switches the current user to the user betty.
